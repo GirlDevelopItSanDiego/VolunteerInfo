@@ -1,5 +1,5 @@
 # Volunteer Info
-Info and guides for teachers, volunteers, mentors, TAs, and more. 
+Info and guides for teachers, volunteers, mentors, TAs, and more can be found [in the Wiki.](https://github.com/GirlDevelopItSanDiego/VolunteerInfo/wiki)
 
 # [Girl Develop It Code of Conduct.](https://www.girldevelopit.com/code-of-conduct)
 This is the most important thing, and we require that all participants abide by it. 
